@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main_logo{
+    text-align: center;
+}
+.logo{
+    width: 270px;
+    height: 120px;
+}
+.nav ul{
+    list-style-type: none;
+    background-color: wheat;
+    width: 100%;
+    height: 70px;
+    border-radius: 35px;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    
+}
+.nav li{
+    display: inline-block;
+    line-height: 70px;
+}
+.nav a{
+    text-decoration: none;
+    padding: 15px;
+    font-size: 25px;
+    text-transform: uppercase;
+    font-family: 'Concert One';
+    color: black;
+}
+.nav a:hover{
+    color: red;
+}
+
+
+
+
+
+.detail{
+    font-family: 'Noto Serif Bengali', serif;
+}
+.title{
+    margin: 20px;
+    padding-left: 100px;
+}
+.data{
+    padding-left: 200px;
+    font-size: 20px;
+}
+
+
+
+
+.m_h{
+    font-family: 'Noto Serif Bengali', serif;
+    margin: 20px;
+    padding-left: 100px;
+}
+.member{
+    border: 0px solid black;
+    width: 30%;
+    height: 200px;
+    text-align: center;
+    margin: 20px;
+    float: left;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.pic{
+    width: 100px;
+    height: 120px;
+    border-radius: 50px;
+}
+.member_d a{
+    text-transform: capitalize;
+    text-decoration: none;
+    color: black;
+    font-size: 17px;
+}
+
+
+
+
+
+
+
+
+.footer_content{
+    width: 100%;
+    height: 200px;
+    background-color:#111;
+    color: #fff;
+    font-family: sans-serif;
+
+
+}
+.footer_1{
+    width: 35%;
+    float: left;
+    padding: 50px;
+    text-align: center;
+}
+.form{
+    float: right;
+    text-align: center;
+    padding-right: 150px;
+    padding-top: 20px;
+}
+.foot_text{
+    background-color:  #111;
+    text-align: center;
+    font-family: sans-serif;
+    color: white;
+    font-size: 15p
+    x;
+    
+}
